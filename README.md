@@ -1,6 +1,6 @@
 # Prueba
 
-##Apartado A
+## Apartado A
 
 Francisco
 
@@ -8,6 +8,6 @@ Francisco
 - No
 - No se
 
-##Apartado B
+## Apartado B
 
 Blablabla...
