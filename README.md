@@ -9,7 +9,7 @@ Código:
   </head>
 </html>
 ```  
-<span style="background:#FFFF00"Ese es un código HTML ! no PHP....</span> 
+
 
 
 ## EL DEMBOO
