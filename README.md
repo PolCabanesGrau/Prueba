@@ -2,6 +2,9 @@
 
 ##Apartado A
 Francisco
+-Si
+-No 
+-No se
 
 
 ##Apartado B
